@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1419410106 source:/home/youstina/Desktop/system_project/main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<fstream>
+	<map>
+	<stdlib.h>
+	<sstream>
+	<iomanip>
+	<math.h>
+	<bitset>
+
+1419411286 source:d:\projects\system_project\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<fstream>
+	<map>
+	<stdlib.h>
+	<sstream>
+	<iomanip>
+	<math.h>
+	<bitset>
+
